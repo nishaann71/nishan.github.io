@@ -1,0 +1,32 @@
+about.html
+<!DOCTYPE html>
+<html lang="bn">
+<head>
+  <meta charset="UTF-8">
+  <title>আমার সম্পর্কে</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<nav>
+  <h2>Nishan Creative Hub</h2>
+</nav>
+
+<section class="card">
+  <h2>আমার সম্পর্কে</h2>
+  <p>
+    আমার নাম Md. Fateh Omor Nishan। আমি একজন ছাত্র এবং Microsoft Office-এর
+    সকল বিষয়ের উপর অভিজ্ঞ।
+  </p>
+  <p>
+    আমি Motion Graphic ও Creative Design নিয়ে কাজ করি এবং
+    আধুনিক AI টুল ব্যবহার করে বিভিন্ন ডিজাইন তৈরি করি।
+  </p>
+</section>
+
+<footer>
+  © 2026 Nishan Creative Hub
+</footer>
+
+</body>
+</html>

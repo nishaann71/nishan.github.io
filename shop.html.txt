@@ -1,0 +1,33 @@
+shop.html
+<!DOCTYPE html>
+<html lang="bn">
+<head>
+  <meta charset="UTF-8">
+  <title>গ্রাফিক মার্কেট</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<nav>
+  <h2>Nishan Creative Hub</h2>
+</nav>
+
+<section class="card">
+  <h2>গ্রাফিক মার্কেট</h2>
+
+  <div class="product">
+    <h3>Poster Design</h3>
+    <p>দাম: ৫০০ টাকা</p>
+    <button class="btn" onclick="buy()">Buy Now</button>
+  </div>
+
+</section>
+
+<footer>
+  © 2026 Nishan Creative Hub
+</footer>
+
+<script src="script.js"></script>
+</body>
+</html>
+

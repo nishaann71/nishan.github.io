@@ -1,0 +1,31 @@
+contact.html
+<!DOCTYPE html>
+<html lang="bn">
+<head>
+  <meta charset="UTF-8">
+  <title>যোগাযোগ</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<nav>
+  <h2>Nishan Creative Hub</h2>
+</nav>
+
+<section class="card">
+  <h2>যোগাযোগ করুন</h2>
+  <p>Email: nishaannn711@gmail.com</p>
+
+  <input type="text" placeholder="আপনার নাম">
+  <input type="email" placeholder="আপনার ইমেইল">
+  <textarea placeholder="আপনার মেসেজ"></textarea>
+  <br><br>
+  <button class="btn">পাঠান</button>
+</section>
+
+<footer>
+  © 2026 Nishan Creative Hub
+</footer>
+
+</body>
+</html>

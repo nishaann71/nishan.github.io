@@ -1,0 +1,4 @@
+script.js
+function buy(){
+  alert("Payment system শীঘ্রই যুক্ত করা হবে 😊");
+}
